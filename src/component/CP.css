@@ -1,0 +1,49 @@
+
+.containerProfile {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 100px 5px;
+  background-color: #0985f8c0;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  width: 20%;
+  height: 120px;
+}
+
+.avatarProfile {
+  margin-top: -80px;
+  width: 150px;
+  border-radius: 30%;
+}
+
+.usernameProfile {
+  margin-top: 20px;
+  font-size: 13px;
+}
+
+.emailProfile {
+  margin-top: 3px;
+  font-size: 12px;
+}
+
+.nameProfile {
+  text-transform: uppercase;
+  font-size: 15px;
+}
+
+.public_reposProfile {
+  font-size: 12px;
+}
+
+.companyProfile {
+    font-size: 12px;
+  }
+
+.locationProfile {
+    font-size: 12px;
+  }
+

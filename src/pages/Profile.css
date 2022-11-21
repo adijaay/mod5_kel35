@@ -1,0 +1,17 @@
+.containerTitle{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .textTitle{
+    color: white;
+  }
+  
+  .containerProfileContent{
+    margin-top: 100px;
+    margin-left: 150px;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
